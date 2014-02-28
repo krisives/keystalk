@@ -4,7 +4,7 @@
 within Node.js using Tor. It combines ideas from BitTorrent for a DHT
 and the idea of a chain of events ala Bitcoin.
 
-See the [/krisives/keystalk/wiki] for more on how this works under the hood.
+See the [Wiki](https://github.com/krisives/keystalk/wiki) for more on how this works under the hood.
 
 ## Install
 
